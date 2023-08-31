@@ -1,0 +1,5 @@
+# Ignore editor/node_modules
+editor/node_modules/
+
+# Ignore editor/temp
+editor/temp
